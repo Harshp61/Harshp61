@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I am Trying to manage a lot of things**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect me:</h3>
 <p align="left">
 </p>
 
