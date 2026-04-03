@@ -23,7 +23,7 @@
 
 ## 🏆 Competitive Programming
 - 💻 **LeetCode** → **1965 (Knight, Top 3%)**
-- ⚔️ **Codeforces** → **1332**
+- ⚔️ **Codeforces** → **max--1332**
 - 🍽️ **CodeChef** → **3★ (1600)**
 
 ---
