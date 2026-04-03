@@ -12,6 +12,7 @@
 - 📫 How to reach me **pandeyh477@gmail.com**
 
 - ⚡ Fun fact **I am Trying to manage a lot of things**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/harsh_code_006" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pandeyh477" height="30" width="40" /></a>
