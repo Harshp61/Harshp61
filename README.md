@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋,I'm Harshp61</h1>
-<h3 align="center">A passionate ECE student from India who is into Data Science , Gen AI and Competitive Programming.</h3>
+<h3 align="center">A passionate ECE student from India who is into Next.js, Python, third-party API integrations, AI feature and Competitive Programming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshp61&label=Profile%20views&color=0e75b6&style=flat" alt="harshp61" /> </p>
 
