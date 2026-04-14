@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Harsh+Pandey;Full-Stack+Developer+%7C+AI+Builder;LeetCode+Knight+%7C+Competitive+Programmer;Building+Production-Grade+Systems+🚀" />
 </p>
 
-<!-- ⚡ Gen-Z Neon Banner -->
+<!-- ⚡Gen-Z Neon Banner-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00F7FF&height=230&section=header&text=Harsh%20Pandey&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=Build%20%7C%20Ship%20%7C%20Scale&descAlignY=60&descSize=20" />
 </p>
