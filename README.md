@@ -62,7 +62,7 @@
 - Converts images → AI voice → vertical reels  
 - Built full **API pipeline (upload → TTS → render → deliver)**  
 - Containerized for deployment  
-🔗 https://reelit-phi.onrender.com  
+🔗 [https://reelit-phi.onrender.com](https://reelit-1nsj.onrender.com/)  
 
 ---
 
