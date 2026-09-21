@@ -30,12 +30,14 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 Eat It (AI Cooking Assistant)
-- Next.js + Gemini AI + PostgreSQL + Clerk Auth  
-- Multimodal AI → generates recipes from fridge images  
-- Implemented **2-layer rate limiting** for cost control  
-- Real-time streaming + PDF export  
-🔗 https://eat-it-zeta.vercel.app  
+### 🔹 Build It (AI App Builder)
+- Next.js 16 + React 19 + Gemini AI + Prisma + PostgreSQL (Supabase)  
+- Generates and edits full-stack apps from natural-language prompts  
+- Instant in-browser live preview with **Sandpack** code sandboxing  
+- Clerk authentication + **Arcjet** rate limiting and bot protection  
+- One-click project export to downloadable ZIP via JSZip  
+🔗 Live: https://buildit-wine.vercel.app  
+🔗 Code: https://github.com/Harshp61/buildit 
 
 ---
 
